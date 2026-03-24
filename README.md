@@ -32,7 +32,7 @@
 #### Server
 
 - [KISS, YAGNI, DRY](http://github.com/esperar/estudy/blob/master/Back-End/kyd.md)
-- [인증(Authentication), 인가(Authorization)](http://github.com/esperar/estudy/blob/master/Back-End/backend/auth.md)
+- [인증(Authentication), 인가(Authorization)](https://github.com/kdhdd/estudy/blob/master/Back-End/backend/auth.md)
 - [Back-End 효율적인 API 명세서 설계방법](http://github.com/esperar/estudy/blob/master/Back-End/backend/api.md)
 - [Java Back-End 웹 기술 역사](http://github.com/esperar/estudy/blob/master/Back-End/backend/history.md)
 - [Clean Architecture](http://github.com/esperar/estudy/blob/master/Back-End/backend/cleanspring.md)
