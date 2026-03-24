@@ -36,7 +36,7 @@
 - [Back-End 효율적인 API 명세서 설계방법](http://github.com/esperar/estudy/blob/master/Back-End/backend/api.md)
 - [Java Back-End 웹 기술 역사](http://github.com/esperar/estudy/blob/master/Back-End/backend/history.md)
 - [Clean Architecture](http://github.com/esperar/estudy/blob/master/Back-End/backend/cleanspring.md)
-- [OAuth 2.0 개념과 권한 부여 방식 알아보기](https://esperer.tistory.com/14)
+- [OAuth 2.0 개념과 권한 부여 방식 알아보기](http://github.com/kdhdd/estudy/blob/master/Back-End/backend/oauth.md)
 - [2023 제 3회 당근마켓 SRE 밋업 후기](http://github.com/esperar/estudy/blob/master/Back-End/backend/당근밋업.md)
 - [IntelliJ 테스트 커버리지 확인하기](http://github.com/esperar/estudy/blob/master/Back-End/backend/test_cov.md)
 - [SOLID 원칙과 각 원칙의 장단점](http://github.com/esperar/estudy/blob/master/Back-End/backend/solid.md)
